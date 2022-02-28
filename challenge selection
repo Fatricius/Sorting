@@ -38,9 +38,9 @@ int main()
 {
     int arr[]={23,67,89,5,45,20,15,27};
     int size=sizeof(arr)/sizeof(arr[0]);
-    printf("nama: bileam mangalla\n");
-    puts("nim: 672021056");
-    puts("soal genap");
+    printf("nama: fatricius Paseleng\n");
+    puts("nim: 672021255");
+    puts("soal ganjil");
     printf("\n\nbefore:\n");
     sebelum(arr , size);
     selektionsort(arr , size);
